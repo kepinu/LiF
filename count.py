@@ -10,7 +10,8 @@ today = date.today()
 #print(today)
 #sys.exit()
 # Example usage:
-directory_to_search = 'C:\\Games\\Life is Feudal MMO\\default\\game\\game\\eu\\logs\\' + str(today) + '\\'
+#directory_to_search = 'C:\\Games\\Life is Feudal MMO\\default\\game\\game\\eu\\logs\\' + str(today) + '\\'
+directory_to_search = 'D:\\Life is Feudal MMO\\default\\game\\game\\eu\\logs\\' + str(today) + '\\'
 labels = {}
 count = {}
 display = {}
@@ -44,6 +45,8 @@ class App:
 
             return count   
     def clearAll():
+        global xp
+        xp = 0
         global count
         count = {}
         global display
@@ -67,9 +70,14 @@ class App:
         root.geometry("300x150")
         clearAllButton = tk.Button(root,text = "Clear All",command=partial(App.clearAll))
         clearAllButton.pack()
+        
         xpString = tk.StringVar()
         xpDisplay = tk.Label(root,textvariable=xpString)
         xpDisplay.pack() 
+
+        xpPer = tk.StringVar()
+        xpPerDisplay = tk.Label(root,textvariable=xpPer)
+        xpPerDisplay.pack()
     
         while True:
             # Open the log file in read mode
@@ -92,7 +100,6 @@ class App:
                         if itemName in count.keys() :
                             count[itemName] += int(itemCount)
                             print("Label exists")                                                    
-                            print(labels.keys())
                             labels[itemName].set(itemName + ' = ' + str(count[itemName]))
 
                             
@@ -104,13 +111,14 @@ class App:
                             display[itemName] = tk.Label(root,textvariable=labels[itemName])
                             display[itemName].pack()
                             button[itemName] = tk.Button(root,text = "Clear",command=partial(App.clearVar,itemName))
-                            button[itemName].pack()                    
+                            button[itemName].pack()
+
                         print(itemName)  # You can replace this with your actual parsing logic
                         print(itemCount + "(" + str(count[itemName]) + ")")
                     elif "crafting experience" in line:
                         global xp
                         xp += float(re.sub("<spop>","",line.split("<spush><color:C65F5F>")[1]).split(' ')[0])
-                        
+                        xpPer = re.sub("<spop>","",line.split("<spush><color:C65F5F>")[1]).split(' ')[0]
                         xpString.set(str("{:,.2f}".format(xp)) + " XP Today")
                         
                                 
