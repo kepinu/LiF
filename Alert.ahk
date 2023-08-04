@@ -29,7 +29,7 @@ loopWhitelist(newFileName){
         whitePath := A_LoopFileLongPath
         whiteName := StrReplace(A_LoopFileName, ".", "")
         check := checkWhitelist(whiteName,newFileName)
-        MsgBox % check "josh"
+        MsgBox % check whiteName newFileName
         if (check = 1){
             Continue
             }
@@ -103,5 +103,71 @@ triggerAlert(){
 
   FilesMatchPowershell(file1,file2)
   {
-  return RunWait, powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\Users\Josh-2019\source\repos\LiF\compare.ps1" -ArgumentList "%file1%", "%file2%",Hide
+    file1 := " """ file1 """"
+    file2 := " """ file2 """"
+    
+    command := "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File ""C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1"" "   file1  file2 
+    
+    resultsvar := RunCMD(command)
+    ;Fileread, resultsvar, results.log
+    ;Filedelete, results.log
+    
+    return resultsvar
+    ;match := RunWait(powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1" -ArgumentList "%file1%", "%file2%",Hide)
+    ;MsgBox, %match%`r`n`r`n%CMDout%
+    ;command := "powershell.exe -nologo -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File 'C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1' -ArgumentList '%file1%', '%file2',Hide"
+    ;shell := ComObjCreate("powershell.exe")
+    ; Execute a single command via cmd.exe
+    ;exec := shell.Exec(ComSpec " /C " command)
+    ; Read and return the command's output
+    ;return exec.StdOut.ReadAll()
+    ;command := "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1\" -ArgumentList \"%file1%\", \"%file2%\",Hide"
+    ;return RunWait, powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1" -ArgumentList "%file1%", "%file2%",Hide
   }
+
+  RunCMD(CmdLine, WorkingDir:="", Codepage:="CP0", Fn:="RunCMD_Output", Slow:=1) { ; RunCMD v0.97
+    Local         ; RunCMD v0.97 by SKAN on D34E/D67E @ autohotkey.com/boards/viewtopic.php?t=74647
+    Global A_Args ; Based on StdOutToVar.ahk by Sean @ autohotkey.com/board/topic/15455-stdouttovar
+    
+      Slow := !! Slow
+    , Fn := IsFunc(Fn) ? Func(Fn) : 0
+    , DllCall("CreatePipe", "PtrP",hPipeR:=0, "PtrP",hPipeW:=0, "Ptr",0, "Int",0)
+    , DllCall("SetHandleInformation", "Ptr",hPipeW, "Int",1, "Int",1)
+    , DllCall("SetNamedPipeHandleState","Ptr",hPipeR, "UIntP",PIPE_NOWAIT:=1, "Ptr",0, "Ptr",0)
+    
+    , P8 := (A_PtrSize=8)
+    , VarSetCapacity(SI, P8 ? 104 : 68, 0)                          ; STARTUPINFO structure
+    , NumPut(P8 ? 104 : 68, SI)                                     ; size of STARTUPINFO
+    , NumPut(STARTF_USESTDHANDLES:=0x100, SI, P8 ? 60 : 44,"UInt")  ; dwFlags
+    , NumPut(hPipeW, SI, P8 ? 88 : 60)                              ; hStdOutput
+    , NumPut(hPipeW, SI, P8 ? 96 : 64)                              ; hStdError
+    , VarSetCapacity(PI, P8 ? 24 : 16)                              ; PROCESS_INFORMATION structure
+    
+      If not DllCall("CreateProcess", "Ptr",0, "Str",CmdLine, "Ptr",0, "Int",0, "Int",True
+                    ,"Int",0x08000000 | DllCall("GetPriorityClass", "Ptr",-1, "UInt"), "Int",0
+                    ,"Ptr",WorkingDir ? &WorkingDir : 0, "Ptr",&SI, "Ptr",&PI)
+         Return Format("{1:}", "", ErrorLevel := -1
+                       ,DllCall("CloseHandle", "Ptr",hPipeW), DllCall("CloseHandle", "Ptr",hPipeR))
+    
+      DllCall("CloseHandle", "Ptr",hPipeW)
+    , A_Args.RunCMD := { "PID": NumGet(PI, P8? 16 : 8, "UInt") }
+    , File := FileOpen(hPipeR, "h", Codepage)
+    
+    , LineNum := 1,  sOutput := ""
+      While  ( A_Args.RunCMD.PID | DllCall("Sleep", "Int",Slow) )
+        and  DllCall("PeekNamedPipe", "Ptr",hPipeR, "Ptr",0, "Int",0, "Ptr",0, "Ptr",0, "Ptr",0)
+             While A_Args.RunCMD.PID and StrLen(Line := File.ReadLine())
+                   sOutput .= Fn ? Fn.Call(Line, LineNum++) : Line
+    
+      A_Args.RunCMD.PID := 0
+    , hProcess := NumGet(PI, 0)
+    , hThread  := NumGet(PI, A_PtrSize)
+    
+    , DllCall("GetExitCodeProcess", "Ptr",hProcess, "PtrP",ExitCode:=0)
+    , DllCall("CloseHandle", "Ptr",hProcess)
+    , DllCall("CloseHandle", "Ptr",hThread)
+    , DllCall("CloseHandle", "Ptr",hPipeR)
+    , ErrorLevel := ExitCode
+    
+    Return sOutput
+    }
