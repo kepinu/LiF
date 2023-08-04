@@ -1,4 +1,4 @@
-#Persistent
+;#Persistent
 #SingleInstance
 
 ; Call  the initial function to create the list of files that are expected
@@ -7,11 +7,11 @@ URL :=
 SetTimer, CheckFileModification, 1000  ; Run the CheckFileModification function every 1 second
 
 ; Set the target directory
-global targetDirectory := "D:\Life is Feudal MMO\default\game\game\eu\art\Textures\Heraldry\Cache"
+global targetDirectory := "C:\Games\Life is Feudal MMO\default\game\game\eu\art\Textures\Heraldry\Cache"
 
 ;working directory
-global workingDirectory := "C:\Users\Josh-2019\source\repos\LiF"
-UrlDownloadToFile "https://drive.google.com/file/d/1pCZOW9fQVF_oH2JOCJn8sGAttGoqAHdU/view?usp=sharing", "C:\Users\Josh-2019\source\repos\LiF\whitelist1.zip"
+global workingDirectory := "C:\Users\Living Room\Desktop\LiF Parser\LiF"
+;UrlDownloadToFile := "https://drive.google.com/file/d/1pCZOW9fQVF_oH2JOCJn8sGAttGoqAHdU/view?usp=sharing", "C:\Users\Josh-2019\source\repos\LiF\whitelist1.zip"
 
 ; Primary loop that will check for new files
 CheckFileModification:
@@ -29,6 +29,7 @@ loopWhitelist(newFileName){
         whitePath := A_LoopFileLongPath
         whiteName := StrReplace(A_LoopFileName, ".", "")
         check := checkWhitelist(whiteName,newFileName)
+        MsgBox % check "josh"
         if (check = 1){
             Continue
             }
@@ -46,7 +47,7 @@ checkWhitelist(f1,f2) {
     content2 := ""
     
     match := FilesMatchPowershell(fixedFile1,fixedFile2)
-    ;MsgBox % match f1 f2
+    MsgBox % match f1 f2
     return match
     }
 
