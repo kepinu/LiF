@@ -1,6 +1,6 @@
 ;#Persistent
 #SingleInstance
-
+WriteLog("Script")
 ; Call  the initial function to create the list of files that are expected
 ;CheckInitialFileModification()
 URL := 
@@ -29,14 +29,24 @@ loopWhitelist(newFileName){
         whitePath := A_LoopFileLongPath
         whiteName := StrReplace(A_LoopFileName, ".", "")
         check := checkWhitelist(whiteName,newFileName)
-        MsgBox % check whiteName newFileName
-        if (check = 1){
-            Continue
-            }
+        ;MsgBox % check whiteName newFileName
+        WriteLog("Check =" . check)
+        ifInString,check,1 
+        {
+            WriteLog(" was Matched")
+            break
+        }
         else {
-            triggerAlert()
+            WriteLog(" was not Matched")
             }
-}
+        }
+    
+    ifInString,check,0 
+    {
+      MsgBox, "Alert"
+      WriteLog(newFileName)
+      triggerAlert()
+    }
 }
 checkWhitelist(f1,f2) {
     file1 := workingDirectory . "\whitelist\" . f1
@@ -47,7 +57,7 @@ checkWhitelist(f1,f2) {
     content2 := ""
     
     match := FilesMatchPowershell(fixedFile1,fixedFile2)
-    MsgBox % match f1 f2
+    ;MsgBox, %match%
     return match
     }
 
@@ -89,8 +99,6 @@ triggerAlert(){
 
   FilesMatchHashContents(vPath1, vPath2)
   {
-  ;hash1 := File(vPath1).Hash( "MD5")
-  ;hash2 := File(vPath2).Hash( "MD5")
   if (hash1 = hash2)
     {
   MsgBox, The files are identical.
@@ -107,22 +115,8 @@ triggerAlert(){
     file2 := " """ file2 """"
     
     command := "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File ""C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1"" "   file1  file2 
-    
     resultsvar := RunCMD(command)
-    ;Fileread, resultsvar, results.log
-    ;Filedelete, results.log
-    
     return resultsvar
-    ;match := RunWait(powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1" -ArgumentList "%file1%", "%file2%",Hide)
-    ;MsgBox, %match%`r`n`r`n%CMDout%
-    ;command := "powershell.exe -nologo -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File 'C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1' -ArgumentList '%file1%', '%file2',Hide"
-    ;shell := ComObjCreate("powershell.exe")
-    ; Execute a single command via cmd.exe
-    ;exec := shell.Exec(ComSpec " /C " command)
-    ; Read and return the command's output
-    ;return exec.StdOut.ReadAll()
-    ;command := "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1\" -ArgumentList \"%file1%\", \"%file2%\",Hide"
-    ;return RunWait, powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1" -ArgumentList "%file1%", "%file2%",Hide
   }
 
   RunCMD(CmdLine, WorkingDir:="", Codepage:="CP0", Fn:="RunCMD_Output", Slow:=1) { ; RunCMD v0.97
@@ -170,4 +164,8 @@ triggerAlert(){
     , ErrorLevel := ExitCode
     
     Return sOutput
+    }
+
+    WriteLog(text) {
+      FileAppend, % A_NowUTC ": " text "`n", logfile.txt ; can provide a full path to write to another directory
     }

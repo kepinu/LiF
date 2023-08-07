@@ -1,0 +1,3605 @@
+20230806042047: Script
+20230806042104: Check =0
+
+20230806042111: Check =0
+
+20230806042117: Check =0
+
+20230806042124: Check =0
+
+20230806042131: Check =0
+
+20230806042141: Check =0
+
+20230806042149: Check =0
+
+20230806042156: Check =0
+
+20230806042203: Check =0
+
+20230806042215: Check =0
+
+20230806042226: Check =0
+
+20230806042236: Check =0
+
+20230806042254: Check =0
+
+20230806042306: Check =0
+
+20230806042315: Check =0
+
+20230806042324: Check =0
+
+20230806042330: Check =0
+
+20230806042339: Check =0
+
+20230806042346: Check =0
+
+20230806042354: Check =0
+
+20230806042400: Check =0
+
+20230806042408: Check =0
+
+20230806042415: Check =0
+
+20230806042424: Check =0
+
+20230806042431: Check =0
+
+20230806042444: Check =0
+
+20230806042451: Check =0
+
+20230806042501: Check =0
+
+20230806042511: Check =0
+
+20230806042519: Check =0
+
+20230806042526: Check =0
+
+20230806042534: Check =0
+
+20230806042540: Check =0
+
+20230806042547: Check =0
+
+20230806042557: Check =0
+
+20230806042606: Check =0
+
+20230806042618: Check =0
+
+20230806042629: Check =0
+
+20230806042640: Check =0
+
+20230806042650: Check =0
+
+20230806042703: Check =0
+
+20230806042714: Check =0
+
+20230806042722: Check =0
+
+20230806042729: Check =0
+
+20230806042736: Check =0
+
+20230806042746: Check =0
+
+20230806042753: Check =0
+
+20230806042800: Check =0
+
+20230806042810: Check =0
+
+20230806042817: Check =0
+
+20230806042824: Check =0
+
+20230806042831: Check =0
+
+20230806042838: Check =0
+
+20230806042844: Check =0
+
+20230806042851: Check =0
+
+20230806042858: Check =0
+
+20230806042905: Check =0
+
+20230806042918: Check =0
+
+20230806042924: Check =0
+
+20230806042934: Check =0
+
+20230806042941: Check =0
+
+20230806042947: Check =0
+
+20230806042956: Check =0
+
+20230806043003: Check =0
+
+20230806043016: Check =0
+
+20230806043028: Check =0
+
+20230806043039: Check =0
+
+20230806043046: Check =0
+
+20230806043052: Check =0
+
+20230806043101: Check =0
+
+20230806043125: Check =0
+
+20230806043143: Check =0
+
+20230806043152: Check =0
+
+20230806043204: Check =0
+
+20230806043213: Check =0
+
+20230806043223: Check =0
+
+20230806043231: Check =0
+
+20230806043241: Check =0
+
+20230806043249: Check =0
+
+20230806043326: Check =0
+
+20230806043335: Check =0
+
+20230806043344: Check =0
+
+20230806043353: Check =0
+
+20230806043402: Check =0
+
+20230806043413: Check =0
+
+20230806043422: Check =0
+
+20230806043433: Check =0
+
+20230806043445: Check =0
+
+20230806043457: Check =0
+
+20230806043655: Script
+20230806043706: Check =0
+
+20230806043712: Check =0
+
+20230806043718: Check =0
+
+20230806043724: Check =0
+
+20230806043730: Check =0
+
+20230806043736: Check =0
+
+20230806043744: Check =0
+
+20230806043750: Check =0
+
+20230806043757: Check =0
+
+20230806043804: Check =0
+
+20230806043810: Check =0
+
+20230806043818: Check =0
+
+20230806043824: Check =0
+
+20230806043829: Check =0
+
+20230806043834: Check =0
+
+20230806043839: Check =0
+
+20230806043845: Check =0
+
+20230806043852: Check =0
+
+20230806043858: Check =0
+
+20230806043906: Check =0
+
+20230806043913: Check =0
+
+20230806043920: Check =0
+
+20230806043927: Check =0
+
+20230806043934: Check =0
+
+20230806043942: Check =0
+
+20230806043949: Check =0
+
+20230806043956: Check =0
+
+20230806044002: Check =0
+
+20230806044007: Check =0
+
+20230806044013: Check =0
+
+20230806044018: Check =0
+
+20230806044023: Check =0
+
+20230806044023: Check =
+20230806044028: Check =0
+
+20230806044034: Check =0
+
+20230806044039: Check =0
+
+20230806044044: Check =0
+
+20230806044049: Check =0
+
+20230806044055: Check =0
+
+20230806044100: Check =0
+
+20230806044108: Check =0
+
+20230806044116: Check =0
+
+20230806044121: Check =0
+
+20230806044126: Check =0
+
+20230806044134: Check =0
+
+20230806044141: Check =0
+
+20230806044151: Check =0
+
+20230806044159: Check =0
+
+20230806044208: Check =0
+
+20230806044222: Check =0
+
+20230806044232: Check =0
+
+20230806044239: Check =0
+
+20230806044248: Check =0
+
+20230806044255: Check =0
+
+20230806044301: Check =0
+
+20230806044306: Check =0
+
+20230806044312: Check =0
+
+20230806044318: Check =0
+
+20230806044324: Check =0
+
+20230806044330: Check =0
+
+20230806044336: Check =0
+
+20230806044342: Check =0
+
+20230806044348: Check =0
+
+20230806044354: Check =0
+
+20230806044401: Check =0
+
+20230806044409: Check =0
+
+20230806044415: Check =0
+
+20230806044422: Check =0
+
+20230806044428: Check =0
+
+20230806044436: Check =0
+
+20230806044445: Check =0
+
+20230806044453: Check =0
+
+20230806044459: Check =0
+
+20230806044506: Check =0
+
+20230806044513: Check =0
+
+20230806044522: Check =0
+
+20230806044530: Check =0
+
+20230806044539: Check =0
+
+20230806044546: Check =0
+
+20230806044552: Check =0
+
+20230806044559: Check =0
+
+20230806044605: Check =0
+
+20230806044611: Check =0
+
+20230806044617: Check =0
+
+20230806044623: Check =0
+
+20230806044630: Check =0
+
+20230806044638: Check =0
+
+20230806044645: Check =0
+
+20230806044652: Check =0
+
+20230806044659: Check =0
+
+20230806044705: Check =0
+
+20230806044711: Check =0
+
+20230806044719: Check =0
+
+20230806044726: Check =0
+
+20230806044734: Check =0
+
+20230806044741: Check =0
+
+20230806044749: Check =0
+
+20230806044749: Check =
+20230806044757: Check =0
+
+20230806044807: Check =0
+
+20230806044816: Check =0
+
+20230806044822: Script
+20230806044835: Check =0
+
+20230806044843: Check =0
+
+20230806044851: Check =0
+
+20230806044859: Check =0
+
+20230806044906: Check =0
+
+20230806044913: Check =0
+
+20230806044921: Check =0
+
+20230806044928: Check =0
+
+20230806044935: Check =0
+
+20230806044941: Check =0
+
+20230806044949: Check =0
+
+20230806044955: Check =0
+
+20230806045003: Check =0
+
+20230806045009: Check =0
+
+20230806045016: Check =0
+
+20230806045024: Check =0
+
+20230806045032: Check =0
+
+20230806045041: Check =0
+
+20230806045049: Check =0
+
+20230806045056: Check =0
+
+20230806045103: Check =0
+
+20230806045110: Check =0
+
+20230806045118: Check =0
+
+20230806045125: Check =0
+
+20230806045133: Check =0
+
+20230806045140: Check =0
+
+20230806045148: Check =0
+
+20230806045156: Check =0
+
+20230806045204: Check =0
+
+20230806045212: Check =0
+
+20230806045217: Check =0
+
+20230806045222: Check =0
+
+20230806045222: Check =
+20230806045227: Check =0
+
+20230806045232: Check =0
+
+20230806045237: Check =0
+
+20230806045243: Check =0
+
+20230806045248: Check =0
+
+20230806045253: Check =0
+
+20230806045258: Check =0
+
+20230806045303: Check =0
+
+20230806045307: Check =0
+
+20230806045312: Check =0
+
+20230806045317: Check =0
+
+20230806045324: Check =0
+
+20230806045329: Check =0
+
+20230806045336: Check =0
+
+20230806045341: Check =0
+
+20230806045346: Check =0
+
+20230806045354: Check =0
+
+20230806045359: Check =0
+
+20230806045405: Check =0
+
+20230806045411: Check =0
+
+20230806045418: Check =0
+
+20230806045425: Check =0
+
+20230806045432: Check =0
+
+20230806045439: Check =0
+
+20230806045445: Check =0
+
+20230806045451: Check =0
+
+20230806045457: Check =0
+
+20230806045505: Check =0
+
+20230806045511: Check =0
+
+20230806045518: Check =0
+
+20230806045524: Check =0
+
+20230806045530: Check =0
+
+20230806045536: Check =0
+
+20230806045542: Check =0
+
+20230806045548: Check =0
+
+20230806045553: Check =0
+
+20230806045600: Check =0
+
+20230806045606: Check =0
+
+20230806045611: Check =0
+
+20230806045618: Check =0
+
+20230806045625: Check =0
+
+20230806045632: Check =0
+
+20230806045636: Script
+20230806045647: Check =0
+
+20230806045647:  was not Matched
+20230806045652: Check =0
+
+20230806045652:  was not Matched
+20230806045658: Check =0
+
+20230806045658:  was not Matched
+20230806045704: Check =0
+
+20230806045704:  was not Matched
+20230806045709: Check =0
+
+20230806045709:  was not Matched
+20230806045714: Check =0
+
+20230806045714:  was not Matched
+20230806045719: Check =0
+
+20230806045719:  was not Matched
+20230806045724: Check =0
+
+20230806045724:  was not Matched
+20230806045729: Check =0
+
+20230806045729:  was not Matched
+20230806045734: Check =0
+
+20230806045734:  was not Matched
+20230806045739: Check =0
+
+20230806045739:  was not Matched
+20230806045745: Check =0
+
+20230806045745:  was not Matched
+20230806045751: Check =0
+
+20230806045751:  was not Matched
+20230806045757: Check =0
+
+20230806045757:  was not Matched
+20230806045804: Check =0
+
+20230806045804:  was not Matched
+20230806045811: Check =0
+
+20230806045811:  was not Matched
+20230806045817: Check =0
+
+20230806045817:  was not Matched
+20230806045824: Check =0
+
+20230806045824:  was not Matched
+20230806045831: Check =0
+
+20230806045831:  was not Matched
+20230806045837: Check =0
+
+20230806045837:  was not Matched
+20230806045844: Check =0
+
+20230806045844:  was not Matched
+20230806045850: Check =0
+
+20230806045850:  was not Matched
+20230806045855: Check =0
+
+20230806045855:  was not Matched
+20230806045900: Check =0
+
+20230806045900:  was not Matched
+20230806045905: Check =0
+
+20230806045905:  was not Matched
+20230806045909: Check =0
+
+20230806045909:  was not Matched
+20230806045955: Check =0
+
+20230806045955:  was not Matched
+20230806050005: Check =0
+
+20230806050005:  was not Matched
+20230806050013: Check =1
+
+20230806050013:  was Matched
+20230806050021: Check =0
+
+20230806050021:  was not Matched
+20230806050027: Check =0
+
+20230806050027:  was not Matched
+20230806050032: Check =0
+
+20230806050032:  was not Matched
+20230806050039: Check =0
+
+20230806050039:  was not Matched
+20230806050047: Check =0
+
+20230806050047:  was not Matched
+20230806050052: Check =0
+
+20230806050052:  was not Matched
+20230806050058: Check =0
+
+20230806050058:  was not Matched
+20230806050103: Check =0
+
+20230806050103:  was not Matched
+20230806050108: Check =0
+
+20230806050108:  was not Matched
+20230806050114: Check =0
+
+20230806050114:  was not Matched
+20230806050119: Check =0
+
+20230806050119:  was not Matched
+20230806050125: Check =0
+
+20230806050125:  was not Matched
+20230806050133: Check =0
+
+20230806050133:  was not Matched
+20230806050139: Check =0
+
+20230806050139:  was not Matched
+20230806050145: Check =0
+
+20230806050145:  was not Matched
+20230806050149: Check =0
+
+20230806050149:  was not Matched
+20230806050155: Check =0
+
+20230806050155:  was not Matched
+20230806050200: Check =0
+
+20230806050200:  was not Matched
+20230806050206: Check =0
+
+20230806050206:  was not Matched
+20230806050212: Check =0
+
+20230806050212:  was not Matched
+20230806050218: Check =0
+
+20230806050218:  was not Matched
+20230806050224: Check =0
+
+20230806050224:  was not Matched
+20230806050230: Check =0
+
+20230806050230:  was not Matched
+20230806050235: Check =0
+
+20230806050235:  was not Matched
+20230806050239: Check =0
+
+20230806050239:  was not Matched
+20230806050245: Check =0
+
+20230806050245:  was not Matched
+20230806050252: Check =Get-FileHash : The file 'C:\Users\Living Room\Desktop\LiF Parser\LiF\whitelist\Tabard_0d0c032b0103032b030203000.dds' 
+cannot be read: Could not find file 'C:\Users\Living Room\Desktop\LiF 
+Parser\LiF\whitelist\Tabard_0d0c032b0103032b030203000.dds'.
+At C:\Users\Living Room\Desktop\Lif Parser\lif\compare.ps1:4 char:10
++ $hash1 = Get-FileHash -Path $file1 -Algorithm MD5
++          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ReadError: (C:\Users\Living...2b030203000.dds:PSObject) [Write-Error], WriteErrorExcepti 
+   on
+    + FullyQualifiedErrorId : FileReadError,Get-FileHash
+ 
+0
+
+20230806050252:  was Matched
+20230806050321: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Standard_06090f0405010d05030101000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...05030101000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050321:  was Matched
+20230806050338: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Standard_06090f0405010d0603010d000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...0603010d000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050338:  was Matched
+20230806050353: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Standard_06090f0405010d0b030101000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...0b030101000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050353:  was Matched
+20230806050409: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Standard_060e052705030100000000000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...00000000000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050409:  was Matched
+20230806050430: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Standard_0d0c032b0103032b030203000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...2b030203000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050430:  was Matched
+20230806050450: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Tabard_010c104005030300000000000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...00000000000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050450:  was Matched
+20230806050536: Check =0
+
+20230806050536:  was not Matched
+20230806050547: Check =0
+
+20230806050547:  was not Matched
+20230806050556: Check =0
+
+20230806050556:  was not Matched
+20230806050605: Check =0
+
+20230806050605:  was not Matched
+20230806050613: Check =0
+
+20230806050613:  was not Matched
+20230806050620: Check =0
+
+20230806050620:  was not Matched
+20230806050628: Check =0
+
+20230806050628:  was not Matched
+20230806050634: Check =0
+
+20230806050634:  was not Matched
+20230806050641: Check =0
+
+20230806050641:  was not Matched
+20230806050648: Check =0
+
+20230806050648:  was not Matched
+20230806050656: Check =0
+
+20230806050656:  was not Matched
+20230806050703: Check =0
+
+20230806050703:  was not Matched
+20230806050712: Check =0
+
+20230806050712:  was not Matched
+20230806050720: Check =0
+
+20230806050720:  was not Matched
+20230806050727: Check =0
+
+20230806050727:  was not Matched
+20230806050736: Check =0
+
+20230806050736:  was not Matched
+20230806050745: Check =0
+
+20230806050745:  was not Matched
+20230806050755: Check =0
+
+20230806050755:  was not Matched
+20230806050807: Check =0
+
+20230806050807:  was not Matched
+20230806050822: Check =0
+
+20230806050822:  was not Matched
+20230806050838: Check =Resolve-Path : Cannot find path 'C:\Users\Living Room\Desktop\LiF 
+Parser\LiF\whitelist\Tabard_060d053805030100000000000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Living...00000000000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050838:  was Matched
+20230806050902: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Tabard_06090f0405010d0203010d000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...0203010d000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050902:  was Matched
+20230806050927: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Tabard_06090f0405010d05030101000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...05030101000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230806050927:  was Matched
+20230806050944: Script
+20230806050955: Check =1
+
+20230806050955:  was Matched
+20230806051001: Check =0
+
+20230806051001:  was not Matched
+20230806051008: Check =1
+
+20230806051008:  was Matched
+20230806051014: Check =0
+
+20230806051014:  was not Matched
+20230806051019: Check =0
+
+20230806051019:  was not Matched
+20230806051024: Check =1
+
+20230806051024:  was Matched
+20230806051028: Check =0
+
+20230806051028:  was not Matched
+20230806051034: Check =0
+
+20230806051034:  was not Matched
+20230806051039: Check =0
+
+20230806051039:  was not Matched
+20230806051045: Check =0
+
+20230806051045:  was not Matched
+20230806051050: Check =0
+
+20230806051050:  was not Matched
+20230806051056: Check =0
+
+20230806051056:  was not Matched
+20230806051113: Check =0
+
+20230806051113:  was not Matched
+20230806051119: Check =0
+
+20230806051119:  was not Matched
+20230806051124: Check =0
+
+20230806051124:  was not Matched
+20230806051128: Check =1
+
+20230806051128:  was Matched
+20230806051133: Check =0
+
+20230806051133:  was not Matched
+20230806051139: Check =0
+
+20230806051139:  was not Matched
+20230806051146: Check =0
+
+20230806051146:  was not Matched
+20230806051153: Check =0
+
+20230806051153:  was not Matched
+20230806051159: Check =1
+
+20230806051159:  was Matched
+20230806051205: Check =0
+
+20230806051205:  was not Matched
+20230806051211: Check =0
+
+20230806051211:  was not Matched
+20230806051217: Check =0
+
+20230806051217:  was not Matched
+20230806051226: Check =0
+
+20230806051226:  was not Matched
+20230806051233: Check =0
+
+20230806051233:  was not Matched
+20230806051240: Check =1
+
+20230806051240:  was Matched
+20230806051248: Check =0
+
+20230806051248:  was not Matched
+20230806051256: Check =0
+
+20230806051256:  was not Matched
+20230806051304: Check =0
+
+20230806051304:  was not Matched
+20230806051314: Check =0
+
+20230806051314:  was not Matched
+20230806051323: Check =0
+
+20230806051323:  was not Matched
+20230806051333: Check =0
+
+20230806051333:  was not Matched
+20230807032719: Script
+20230807032731: Check =0
+
+20230807032731:  was not Matched
+20230807032736: Check =1
+
+20230807032736:  was Matched
+20230807032742: Check =0
+
+20230807032742:  was not Matched
+20230807032746: Check =0
+
+20230807032746:  was not Matched
+20230807032752: Check =0
+
+20230807032752:  was not Matched
+20230807032800: Check =1
+
+20230807032800:  was Matched
+20230807032809: Check =0
+
+20230807032809:  was not Matched
+20230807032819: Check =0
+
+20230807032819:  was not Matched
+20230807032828: Check =0
+
+20230807032828:  was not Matched
+20230807032838: Check =0
+
+20230807032838:  was not Matched
+20230807032847: Check =1
+
+20230807032847:  was Matched
+20230807032855: Check =0
+
+20230807032855:  was not Matched
+20230807032902: Check =0
+
+20230807032902:  was not Matched
+20230807032909: Check =0
+
+20230807032909:  was not Matched
+20230807032915: Check =0
+
+20230807032915:  was not Matched
+20230807032921: Check =0
+
+20230807032921:  was not Matched
+20230807032929: Check =1
+
+20230807032929:  was Matched
+20230807032939: Check =0
+
+20230807032939:  was not Matched
+20230807032946: Check =0
+
+20230807032946:  was not Matched
+20230807032954: Check =0
+
+20230807032954:  was not Matched
+20230807032959: Check =0
+
+20230807032959:  was not Matched
+20230807033004: Check =0
+
+20230807033004:  was not Matched
+20230807033009: Check =0
+
+20230807033009:  was not Matched
+20230807033014: Check =1
+
+20230807033014:  was Matched
+20230807033019: Check =0
+
+20230807033019:  was not Matched
+20230807033023: Check =0
+
+20230807033023:  was not Matched
+20230807033028: Check =0
+
+20230807033028:  was not Matched
+20230807033033: Check =0
+
+20230807033033:  was not Matched
+20230807033037: Check =0
+
+20230807033037:  was not Matched
+20230807033043: Check =0
+
+20230807033043:  was not Matched
+20230807033049: Check =0
+
+20230807033049:  was not Matched
+20230807033054: Check =0
+
+20230807033054:  was not Matched
+20230807033058: Check =1
+
+20230807033058:  was Matched
+20230807033103: Check =0
+
+20230807033103:  was not Matched
+20230807033107: Check =0
+
+20230807033107:  was not Matched
+20230807033113: Check =0
+
+20230807033113:  was not Matched
+20230807033118: Check =0
+
+20230807033118:  was not Matched
+20230807033122: Check =0
+
+20230807033122:  was not Matched
+20230807033127: Check =0
+
+20230807033127:  was not Matched
+20230807033131: Check =0
+
+20230807033131:  was not Matched
+20230807033136: Check =0
+
+20230807033136:  was not Matched
+20230807033143: Check =0
+
+20230807033143:  was not Matched
+20230807033149: Check =0
+
+20230807033149:  was not Matched
+20230807033155: Check =1
+
+20230807033155:  was Matched
+20230807033200: Check =0
+
+20230807033200:  was not Matched
+20230807033205: Check =0
+
+20230807033205:  was not Matched
+20230807033210: Check =0
+
+20230807033210:  was not Matched
+20230807033215: Check =0
+
+20230807033215:  was not Matched
+20230807033219: Check =0
+
+20230807033219:  was not Matched
+20230807033222: Check =0
+
+20230807033222:  was not Matched
+20230807033226: Check =0
+
+20230807033226:  was not Matched
+20230807033230: Check =0
+
+20230807033230:  was not Matched
+20230807033235: Check =0
+
+20230807033235:  was not Matched
+20230807033239: Check =0
+
+20230807033239:  was not Matched
+20230807033244: Check =0
+
+20230807033244:  was not Matched
+20230807033249: Check =1
+
+20230807033249:  was Matched
+20230807033255: Check =0
+
+20230807033255:  was not Matched
+20230807033303: Check =0
+
+20230807033303:  was not Matched
+20230807033311: Check =0
+
+20230807033311:  was not Matched
+20230807033315: Check =0
+
+20230807033315:  was not Matched
+20230807033320: Check =0
+
+20230807033320:  was not Matched
+20230807033326: Check =0
+
+20230807033326:  was not Matched
+20230807033331: Check =0
+
+20230807033331:  was not Matched
+20230807033336: Check =0
+
+20230807033336:  was not Matched
+20230807033342: Check =0
+
+20230807033342:  was not Matched
+20230807033347: Check =0
+
+20230807033347:  was not Matched
+20230807033354: Check =0
+
+20230807033354:  was not Matched
+20230807033359: Check =0
+
+20230807033359:  was not Matched
+20230807033404: Check =1
+
+20230807033404:  was Matched
+20230807033409: Check =0
+
+20230807033409:  was not Matched
+20230807033416: Check =0
+
+20230807033416:  was not Matched
+20230807033422: Check =0
+
+20230807033422:  was not Matched
+20230807033428: Check =0
+
+20230807033428:  was not Matched
+20230807033436: Check =0
+
+20230807033436:  was not Matched
+20230807033445: Check =0
+
+20230807033445:  was not Matched
+20230807033453: Check =0
+
+20230807033453:  was not Matched
+20230807033459: Check =0
+
+20230807033459:  was not Matched
+20230807033504: Check =0
+
+20230807033504:  was not Matched
+20230807033510: Check =0
+
+20230807033510:  was not Matched
+20230807033516: Check =0
+
+20230807033516:  was not Matched
+20230807033522: Check =0
+
+20230807033522:  was not Matched
+20230807033528: Check =0
+
+20230807033528:  was not Matched
+20230807033533: Check =1
+
+20230807033533:  was Matched
+20230807033542: Check =0
+
+20230807033542:  was not Matched
+20230807033549: Check =1
+
+20230807033549:  was Matched
+20230807033559: Check =0
+
+20230807033559:  was not Matched
+20230807033607: Check =0
+
+20230807033607:  was not Matched
+20230807033614: Check =0
+
+20230807033614:  was not Matched
+20230807033620: Check =1
+
+20230807033620:  was Matched
+20230807033627: Check =0
+
+20230807033627:  was not Matched
+20230807033636: Check =0
+
+20230807033636:  was not Matched
+20230807033647: Check =0
+
+20230807033647:  was not Matched
+20230807033658: Check =0
+
+20230807033658:  was not Matched
+20230807033709: Check =1
+
+20230807033709:  was Matched
+20230807033723: Check =0
+
+20230807033723:  was not Matched
+20230807033734: Check =0
+
+20230807033734:  was not Matched
+20230807033740: Check =0
+
+20230807033740:  was not Matched
+20230807033747: Check =0
+
+20230807033747:  was not Matched
+20230807033753: Check =0
+
+20230807033753:  was not Matched
+20230807033759: Check =1
+
+20230807033759:  was Matched
+20230807033804: Check =0
+
+20230807033804:  was not Matched
+20230807033810: Check =0
+
+20230807033810:  was not Matched
+20230807033815: Check =0
+
+20230807033815:  was not Matched
+20230807033820: Check =0
+
+20230807033820:  was not Matched
+20230807033827: Check =0
+
+20230807033827:  was not Matched
+20230807033832: Check =0
+
+20230807033832:  was not Matched
+20230807033838: Check =1
+
+20230807033838:  was Matched
+20230807033843: Check =0
+
+20230807033843:  was not Matched
+20230807033850: Check =0
+
+20230807033850:  was not Matched
+20230807033901: Check =0
+
+20230807033901:  was not Matched
+20230807033914: Check =0
+
+20230807033914:  was not Matched
+20230807033923: Check =0
+
+20230807033923:  was not Matched
+20230807033932: Check =0
+
+20230807033932:  was not Matched
+20230807033940: Check =0
+
+20230807033940:  was not Matched
+20230807033947: Check =0
+
+20230807033947:  was not Matched
+20230807033955: Check =1
+
+20230807033955:  was Matched
+20230807034002: Check =0
+
+20230807034002:  was not Matched
+20230807034008: Check =0
+
+20230807034008:  was not Matched
+20230807034013: Check =0
+
+20230807034013:  was not Matched
+20230807034018: Check =0
+
+20230807034018:  was not Matched
+20230807034023: Check =0
+
+20230807034023:  was not Matched
+20230807034028: Check =0
+
+20230807034028:  was not Matched
+20230807034033: Check =0
+
+20230807034033:  was not Matched
+20230807034038: Check =0
+
+20230807034038:  was not Matched
+20230807034044: Check =0
+
+20230807034044:  was not Matched
+20230807034051: Check =0
+
+20230807034051:  was not Matched
+20230807034057: Check =1
+
+20230807034057:  was Matched
+20230807034103: Check =0
+
+20230807034103:  was not Matched
+20230807034108: Check =0
+
+20230807034108:  was not Matched
+20230807034112: Check =0
+
+20230807034112:  was not Matched
+20230807034117: Check =0
+
+20230807034117:  was not Matched
+20230807034123: Check =0
+
+20230807034123:  was not Matched
+20230807034129: Check =0
+
+20230807034129:  was not Matched
+20230807034136: Check =0
+
+20230807034136:  was not Matched
+20230807034142: Check =0
+
+20230807034142:  was not Matched
+20230807034148: Check =0
+
+20230807034148:  was not Matched
+20230807034155: Check =0
+
+20230807034155:  was not Matched
+20230807034200: Check =0
+
+20230807034200:  was not Matched
+20230807034207: Check =1
+
+20230807034207:  was Matched
+20230807034213: Check =0
+
+20230807034213:  was not Matched
+20230807034219: Check =0
+
+20230807034219:  was not Matched
+20230807034225: Check =0
+
+20230807034225:  was not Matched
+20230807034231: Check =0
+
+20230807034231:  was not Matched
+20230807034236: Check =0
+
+20230807034236:  was not Matched
+20230807034242: Check =0
+
+20230807034242:  was not Matched
+20230807034252: Check =0
+
+20230807034252:  was not Matched
+20230807034303: Check =0
+
+20230807034303:  was not Matched
+20230807034311: Check =0
+
+20230807034311:  was not Matched
+20230807034319: Check =0
+
+20230807034319:  was not Matched
+20230807034327: Check =0
+
+20230807034327:  was not Matched
+20230807034337: Check =0
+
+20230807034337:  was not Matched
+20230807034347: Check =1
+
+20230807034347:  was Matched
+20230807034356: Check =0
+
+20230807034356:  was not Matched
+20230807034406: Check =0
+
+20230807034406:  was not Matched
+20230807034416: Check =0
+
+20230807034416:  was not Matched
+20230807034423: Check =0
+
+20230807034423:  was not Matched
+20230807034429: Check =0
+
+20230807034429:  was not Matched
+20230807034436: Check =0
+
+20230807034436:  was not Matched
+20230807034441: Check =0
+
+20230807034441:  was not Matched
+20230807034447: Check =0
+
+20230807034447:  was not Matched
+20230807034452: Check =0
+
+20230807034452:  was not Matched
+20230807034459: Check =0
+
+20230807034459:  was not Matched
+20230807034505: Check =0
+
+20230807034505:  was not Matched
+20230807034511: Check =0
+
+20230807034511:  was not Matched
+20230807034517: Check =0
+
+20230807034517:  was not Matched
+20230807034523: Check =1
+
+20230807034523:  was Matched
+20230807034530: Check =0
+
+20230807034530:  was not Matched
+20230807034536: Check =1
+
+20230807034536:  was Matched
+20230807034542: Check =0
+
+20230807034542:  was not Matched
+20230807034548: Check =0
+
+20230807034548:  was not Matched
+20230807034554: Check =0
+
+20230807034554:  was not Matched
+20230807034559: Check =1
+
+20230807034559:  was Matched
+20230807034604: Check =0
+
+20230807034604:  was not Matched
+20230807034609: Check =0
+
+20230807034609:  was not Matched
+20230807034614: Check =0
+
+20230807034614:  was not Matched
+20230807034619: Check =0
+
+20230807034619:  was not Matched
+20230807034625: Check =0
+
+20230807034625:  was not Matched
+20230807034631: Check =0
+
+20230807034631:  was not Matched
+20230807034636: Check =0
+
+20230807034636:  was not Matched
+20230807034641: Check =0
+
+20230807034641:  was not Matched
+20230807034648: Check =0
+
+20230807034648:  was not Matched
+20230807034654: Check =0
+
+20230807034654:  was not Matched
+20230807034702: Check =0
+
+20230807034702:  was not Matched
+20230807034709: Check =0
+
+20230807034709:  was not Matched
+20230807034715: Check =0
+
+20230807034715:  was not Matched
+20230807034721: Check =0
+
+20230807034721:  was not Matched
+20230807034742: Check =0
+
+20230807034742:  was not Matched
+20230807034751: Check =0
+
+20230807034751:  was not Matched
+20230807034800: Check =0
+
+20230807034800:  was not Matched
+20230807034808: Check =0
+
+20230807034808:  was not Matched
+20230807034817: Check =1
+
+20230807034817:  was Matched
+20230807034826: Check =0
+
+20230807034826:  was not Matched
+20230807034833: Check =0
+
+20230807034833:  was not Matched
+20230807034840: Check =0
+
+20230807034840:  was not Matched
+20230807034846: Check =0
+
+20230807034846:  was not Matched
+20230807034853: Check =0
+
+20230807034853:  was not Matched
+20230807034859: Check =1
+
+20230807034859:  was Matched
+20230807034906: Check =0
+
+20230807034906:  was not Matched
+20230807034912: Check =0
+
+20230807034912:  was not Matched
+20230807034918: Check =0
+
+20230807034918:  was not Matched
+20230807034924: Check =0
+
+20230807034924:  was not Matched
+20230807034929: Check =0
+
+20230807034929:  was not Matched
+20230807034935: Check =0
+
+20230807034935:  was not Matched
+20230807034941: Check =1
+
+20230807034941:  was Matched
+20230807034947: Check =0
+
+20230807034947:  was not Matched
+20230807034955: Check =0
+
+20230807034955:  was not Matched
+20230807035003: Check =0
+
+20230807035003:  was not Matched
+20230807035014: Check =0
+
+20230807035014:  was not Matched
+20230807035024: Check =0
+
+20230807035024:  was not Matched
+20230807035032: Check =0
+
+20230807035032:  was not Matched
+20230807035040: Check =0
+
+20230807035040:  was not Matched
+20230807035048: Check =0
+
+20230807035048:  was not Matched
+20230807035056: Check =1
+
+20230807035056:  was Matched
+20230807035104: Check =0
+
+20230807035104:  was not Matched
+20230807035111: Check =0
+
+20230807035111:  was not Matched
+20230807035119: Check =0
+
+20230807035119:  was not Matched
+20230807035130: Check =0
+
+20230807035130:  was not Matched
+20230807035142: Check =0
+
+20230807035142:  was not Matched
+20230807035150: Check =0
+
+20230807035150:  was not Matched
+20230807035156: Check =0
+
+20230807035156:  was not Matched
+20230807035203: Check =0
+
+20230807035203:  was not Matched
+20230807035210: Check =0
+
+20230807035210:  was not Matched
+20230807035217: Check =0
+
+20230807035217:  was not Matched
+20230807035225: Check =1
+
+20230807035225:  was Matched
+20230807035232: Check =0
+
+20230807035232:  was not Matched
+20230807035239: Check =0
+
+20230807035239:  was not Matched
+20230807035244: Check =0
+
+20230807035244:  was not Matched
+20230807035251: Check =0
+
+20230807035251:  was not Matched
+20230807035257: Check =0
+
+20230807035257:  was not Matched
+20230807035302: Check =0
+
+20230807035302:  was not Matched
+20230807035308: Check =0
+
+20230807035308:  was not Matched
+20230807035314: Check =0
+
+20230807035314:  was not Matched
+20230807035319: Check =0
+
+20230807035319:  was not Matched
+20230807035324: Check =0
+
+20230807035324:  was not Matched
+20230807035329: Check =0
+
+20230807035329:  was not Matched
+20230807035334: Check =0
+
+20230807035334:  was not Matched
+20230807035339: Check =0
+
+20230807035339:  was not Matched
+20230807035344: Check =0
+
+20230807035344:  was not Matched
+20230807035425: Check =0
+
+20230807035425:  was not Matched
+20230807035436: Check =0
+
+20230807035436:  was not Matched
+20230807035445: Check =0
+
+20230807035445:  was not Matched
+20230807035454: Check =0
+
+20230807035454:  was not Matched
+20230807035502: Check =0
+
+20230807035502:  was not Matched
+20230807035513: Check =0
+
+20230807035513:  was not Matched
+20230807035525: Check =0
+
+20230807035525:  was not Matched
+20230807035537: Check =0
+
+20230807035537:  was not Matched
+20230807035546: Check =0
+
+20230807035546:  was not Matched
+20230807035557: Check =0
+
+20230807035557:  was not Matched
+20230807035605: Check =0
+
+20230807035605:  was not Matched
+20230807035612: Check =1
+
+20230807035612:  was Matched
+20230807035618: Check =0
+
+20230807035618:  was not Matched
+20230807035626: Check =0
+
+20230807035626:  was not Matched
+20230807035633: Check =0
+
+20230807035633:  was not Matched
+20230807035640: Check =0
+
+20230807035640:  was not Matched
+20230807035648: Check =0
+
+20230807035648:  was not Matched
+20230807035657: Check =0
+
+20230807035657:  was not Matched
+20230807035706: Check =0
+
+20230807035706:  was not Matched
+20230807035714: Check =0
+
+20230807035714:  was not Matched
+20230807035720: Check =0
+
+20230807035720:  was not Matched
+20230807035727: Check =0
+
+20230807035727:  was not Matched
+20230807035733: Check =0
+
+20230807035733:  was not Matched
+20230807035741: Check =0
+
+20230807035741:  was not Matched
+20230807035748: Check =1
+
+20230807035748:  was Matched
+20230807035755: Check =0
+
+20230807035755:  was not Matched
+20230807035801: Check =0
+
+20230807035801:  was not Matched
+20230807035808: Check =0
+
+20230807035809:  was not Matched
+20230807035815: Check =0
+
+20230807035815:  was not Matched
+20230807035822: Check =0
+
+20230807035822:  was not Matched
+20230807035833: Check =0
+
+20230807035833:  was not Matched
+20230807035844: Check =0
+
+20230807035844:  was not Matched
+20230807035853: Check =0
+
+20230807035853:  was not Matched
+20230807035900: Check =0
+
+20230807035900:  was not Matched
+20230807035906: Check =0
+
+20230807035906:  was not Matched
+20230807035915: Check =0
+
+20230807035915:  was not Matched
+20230807035922: Check =0
+
+20230807035922:  was not Matched
+20230807035930: Check =0
+
+20230807035930:  was not Matched
+20230807035938: Check =1
+
+20230807035938:  was Matched
+20230807035938: Check =
+20230807035945: Check =0
+
+20230807035945:  was not Matched
+20230807035951: Check =1
+
+20230807035951:  was Matched
+20230807035959: Check =0
+
+20230807035959:  was not Matched
+20230807040007: Check =0
+
+20230807040007:  was not Matched
+20230807040019: Check =0
+
+20230807040019:  was not Matched
+20230807040028: Check =1
+
+20230807040028:  was Matched
+20230807040038: Check =0
+
+20230807040038:  was not Matched
+20230807040045: Check =0
+
+20230807040045:  was not Matched
+20230807040053: Check =0
+
+20230807040053:  was not Matched
+20230807040059: Check =0
+
+20230807040059:  was not Matched
+20230807040106: Check =0
+
+20230807040106:  was not Matched
+20230807040112: Check =0
+
+20230807040112:  was not Matched
+20230807040119: Check =0
+
+20230807040119:  was not Matched
+20230807040125: Check =0
+
+20230807040125:  was not Matched
+20230807040132: Check =0
+
+20230807040132:  was not Matched
+20230807040139: Check =0
+
+20230807040139:  was not Matched
+20230807040146: Check =0
+
+20230807040146:  was not Matched
+20230807040151: Check =0
+
+20230807040151:  was not Matched
+20230807040158: Check =0
+
+20230807040158:  was not Matched
+20230807040205: Check =0
+
+20230807040205:  was not Matched
+20230807040223: Check =0
+
+20230807040223:  was not Matched
+20230807040228: Check =0
+
+20230807040228:  was not Matched
+20230807040235: Check =0
+
+20230807040235:  was not Matched
+20230807040244: Check =0
+
+20230807040244:  was not Matched
+20230807040252: Check =1
+
+20230807040252:  was Matched
+20230807040258: Check =0
+
+20230807040258:  was not Matched
+20230807040304: Check =0
+
+20230807040304:  was not Matched
+20230807040310: Check =0
+
+20230807040310:  was not Matched
+20230807040319: Check =0
+
+20230807040319:  was not Matched
+20230807040326: Check =0
+
+20230807040326:  was not Matched
+20230807040333: Check =1
+
+20230807040333:  was Matched
+20230807040342: Check =0
+
+20230807040342:  was not Matched
+20230807040350: Check =0
+
+20230807040350:  was not Matched
+20230807040358: Check =0
+
+20230807040358:  was not Matched
+20230807040406: Check =0
+
+20230807040406:  was not Matched
+20230807040413: Check =0
+
+20230807040413:  was not Matched
+20230807040420: Check =0
+
+20230807040420:  was not Matched
+20230807040427: Check =1
+
+20230807040427:  was Matched
+20230807040435: Check =0
+
+20230807040435:  was not Matched
+20230807040444: Check =0
+
+20230807040444:  was not Matched
+20230807040451: Check =0
+
+20230807040451:  was not Matched
+20230807040457: Check =0
+
+20230807040457:  was not Matched
+20230807040504: Check =0
+
+20230807040504:  was not Matched
+20230807040510: Check =0
+
+20230807040510:  was not Matched
+20230807040516: Check =0
+
+20230807040516:  was not Matched
+20230807040521: Check =0
+
+20230807040521:  was not Matched
+20230807040528: Check =1
+
+20230807040528:  was Matched
+20230807040536: Check =0
+
+20230807040536:  was not Matched
+20230807040543: Check =0
+
+20230807040543:  was not Matched
+20230807040550: Check =0
+
+20230807040550:  was not Matched
+20230807040557: Check =0
+
+20230807040557:  was not Matched
+20230807040606: Check =0
+
+20230807040606:  was not Matched
+20230807040615: Check =0
+
+20230807040615:  was not Matched
+20230807040625: Check =0
+
+20230807040625:  was not Matched
+20230807040632: Check =0
+
+20230807040632:  was not Matched
+20230807040639: Check =0
+
+20230807040639:  was not Matched
+20230807040648: Check =0
+
+20230807040648:  was not Matched
+20230807040655: Check =1
+
+20230807040655:  was Matched
+20230807040701: Check =0
+
+20230807040701:  was not Matched
+20230807040707: Check =0
+
+20230807040707:  was not Matched
+20230807040714: Check =0
+
+20230807040714:  was not Matched
+20230807040723: Check =0
+
+20230807040723:  was not Matched
+20230807040736: Check =0
+
+20230807040736:  was not Matched
+20230807040745: Check =0
+
+20230807040745:  was not Matched
+20230807040753: Check =0
+
+20230807040753:  was not Matched
+20230807040800: Check =0
+
+20230807040800:  was not Matched
+20230807040808: Check =0
+
+20230807040808:  was not Matched
+20230807040815: Check =0
+
+20230807040815:  was not Matched
+20230807040822: Check =0
+
+20230807040822:  was not Matched
+20230807040829: Check =0
+
+20230807040829:  was not Matched
+20230807040836: Check =0
+
+20230807040836:  was not Matched
+20230807040844: Check =0
+
+20230807040844:  was not Matched
+20230807040912: Check =0
+
+20230807040912:  was not Matched
+20230807040919: Check =0
+
+20230807040919:  was not Matched
+20230807040925: Check =0
+
+20230807040925:  was not Matched
+20230807040931: Check =0
+
+20230807040931:  was not Matched
+20230807040937: Check =0
+
+20230807040937:  was not Matched
+20230807040943: Check =0
+
+20230807040943:  was not Matched
+20230807040947: Check =0
+
+20230807040947:  was not Matched
+20230807040953: Check =0
+
+20230807040953:  was not Matched
+20230807040958: Check =0
+
+20230807040958:  was not Matched
+20230807041003: Check =0
+
+20230807041003:  was not Matched
+20230807041007: Check =0
+
+20230807041007:  was not Matched
+20230807041013: Check =1
+
+20230807041013:  was Matched
+20230807041018: Check =0
+
+20230807041018:  was not Matched
+20230807041026: Check =0
+
+20230807041026:  was not Matched
+20230807041032: Check =0
+
+20230807041032:  was not Matched
+20230807041038: Check =0
+
+20230807041038:  was not Matched
+20230807041046: Check =0
+
+20230807041046:  was not Matched
+20230807041052: Check =0
+
+20230807041052:  was not Matched
+20230807041059: Check =0
+
+20230807041059:  was not Matched
+20230807041106: Check =0
+
+20230807041106:  was not Matched
+20230807041113: Check =0
+
+20230807041113:  was not Matched
+20230807041120: Check =0
+
+20230807041120:  was not Matched
+20230807041127: Check =0
+
+20230807041127:  was not Matched
+20230807041135: Check =0
+
+20230807041135:  was not Matched
+20230807041142: Check =1
+
+20230807041142:  was Matched
+20230807041148: Check =0
+
+20230807041148:  was not Matched
+20230807041154: Check =0
+
+20230807041154:  was not Matched
+20230807041202: Check =0
+
+20230807041202:  was not Matched
+20230807041210: Check =0
+
+20230807041210:  was not Matched
+20230807041219: Check =0
+
+20230807041219:  was not Matched
+20230807041227: Check =0
+
+20230807041227:  was not Matched
+20230807041236: Check =0
+
+20230807041236:  was not Matched
+20230807041242: Check =0
+
+20230807041242:  was not Matched
+20230807041249: Check =0
+
+20230807041249:  was not Matched
+20230807041259: Check =0
+
+20230807041259:  was not Matched
+20230807041308: Check =0
+
+20230807041308:  was not Matched
+20230807041316: Check =0
+
+20230807041316:  was not Matched
+20230807041323: Check =0
+
+20230807041323:  was not Matched
+20230807041330: Check =1
+
+20230807041330:  was Matched
+20230807041342: Check =0
+
+20230807041342:  was not Matched
+20230807041351: Check =1
+
+20230807041351:  was Matched
+20230807041358: Check =0
+
+20230807041358:  was not Matched
+20230807041403: Check =0
+
+20230807041403:  was not Matched
+20230807041409: Check =0
+
+20230807041409:  was not Matched
+20230807041414: Check =0
+
+20230807041414:  was not Matched
+20230807041420: Check =0
+
+20230807041420:  was not Matched
+20230807041425: Check =0
+
+20230807041425:  was not Matched
+20230807041430: Check =0
+
+20230807041430:  was not Matched
+20230807041437: Check =0
+
+20230807041437:  was not Matched
+20230807041447: Check =0
+
+20230807041447:  was not Matched
+20230807041457: Check =0
+
+20230807041457:  was not Matched
+20230807041506: Check =0
+
+20230807041506:  was not Matched
+20230807041518: Check =0
+
+20230807041518:  was not Matched
+20230807041527: Check =0
+
+20230807041527:  was not Matched
+20230807041539: Check =0
+
+20230807041539:  was not Matched
+20230807054954: Script
+20230807055004: Check =1
+
+20230807055004:  was Matched
+20230807055008: Check =0
+
+20230807055008:  was not Matched
+20230807055013: Check =1
+
+20230807055013:  was Matched
+20230807055018: Check =0
+
+20230807055018:  was not Matched
+20230807055022: Check =0
+
+20230807055022:  was not Matched
+20230807055027: Check =0
+
+20230807055027:  was not Matched
+20230807055031: Check =0
+
+20230807055031:  was not Matched
+20230807055035: Check =0
+
+20230807055035:  was not Matched
+20230807055039: Check =0
+
+20230807055039:  was not Matched
+20230807055044: Check =0
+
+20230807055044:  was not Matched
+20230807055048: Check =0
+
+20230807055048:  was not Matched
+20230807055052: Check =0
+
+20230807055052:  was not Matched
+20230807055057: Check =0
+
+20230807055057:  was not Matched
+20230807055101: Check =0
+
+20230807055101:  was not Matched
+20230807055107: Check =0
+
+20230807055107:  was not Matched
+20230807055112: Check =0
+
+20230807055112:  was not Matched
+20230807055116: Check =0
+
+20230807055116:  was not Matched
+20230807055119: Standard_070d020805010200000000970dds
+20230807055137: Check =0
+
+20230807055137:  was not Matched
+20230807055142: Check =0
+
+20230807055142:  was not Matched
+20230807055148: Check =0
+
+20230807055148:  was not Matched
+20230807055154: Check =0
+
+20230807055154:  was not Matched
+20230807055159: Check =0
+
+20230807055159:  was not Matched
+20230807055205: Check =0
+
+20230807055205:  was not Matched
+20230807055212: Check =0
+
+20230807055212:  was not Matched
+20230807055217: Check =0
+
+20230807055217:  was not Matched
+20230807055222: Check =0
+
+20230807055222:  was not Matched
+20230807055227: Check =0
+
+20230807055227:  was not Matched
+20230807055232: Check =0
+
+20230807055232:  was not Matched
+20230807055236: Check =0
+
+20230807055236:  was not Matched
+20230807055240: Check =0
+
+20230807055240:  was not Matched
+20230807055250: Check =0
+
+20230807055250:  was not Matched
+20230807055257: Tabard_010d024005030100000000620dds
+20230807055313: Check =0
+
+20230807055313:  was not Matched
+20230807055320: Check =0
+
+20230807055320:  was not Matched
+20230807055326: Check =0
+
+20230807055326:  was not Matched
+20230807055334: Check =0
+
+20230807055334:  was not Matched
+20230807055340: Check =0
+
+20230807055340:  was not Matched
+20230807055354: Check =0
+
+20230807055354:  was not Matched
+20230807055404: Check =0
+
+20230807055404:  was not Matched
+20230807055416: Check =0
+
+20230807055416:  was not Matched
+20230807055428: Check =0
+
+20230807055428:  was not Matched
+20230807055438: Check =1
+
+20230807055438:  was Matched
+20230807055449: Check =0
+
+20230807055449:  was not Matched
+20230807055457: Check =0
+
+20230807055457:  was not Matched
+20230807055506: Check =0
+
+20230807055506:  was not Matched
+20230807055519: Check =0
+
+20230807055519:  was not Matched
+20230807055531: Check =0
+
+20230807055531:  was not Matched
+20230807055542: Check =0
+
+20230807055542:  was not Matched
+20230807055554: Check =0
+
+20230807055554:  was not Matched
+20230807055605: Check =0
+
+20230807055605:  was not Matched
+20230807055617: Check =0
+
+20230807055617:  was not Matched
+20230807055629: Check =0
+
+20230807055629:  was not Matched
+20230807055641: Check =0
+
+20230807055641:  was not Matched
+20230807055655: Check =0
+
+20230807055655:  was not Matched
+20230807055704: Check =0
+
+20230807055704:  was not Matched
+20230807055711: Check =0
+
+20230807055711:  was not Matched
+20230807055718: Check =0
+
+20230807055718:  was not Matched
+20230807055724: Check =1
+
+20230807055724:  was Matched
+20230807055730: Check =1
+
+20230807055730:  was Matched
+20230807055735: Check =0
+
+20230807055735:  was not Matched
+20230807055741: Check =1
+
+20230807055741:  was Matched
+20230807055748: Check =0
+
+20230807055748:  was not Matched
+20230807055753: Check =0
+
+20230807055753:  was not Matched
+20230807055758: Check =0
+
+20230807055758:  was not Matched
+20230807055803: Check =0
+
+20230807055803:  was not Matched
+20230807055807: Check =0
+
+20230807055807:  was not Matched
+20230807055812: Check =0
+
+20230807055812:  was not Matched
+20230807055817: Check =0
+
+20230807055817:  was not Matched
+20230807055821: Check =1
+
+20230807055821:  was Matched
+20230807055826: Check =0
+
+20230807055826:  was not Matched
+20230807055832: Check =0
+
+20230807055832:  was not Matched
+20230807055840: Check =0
+
+20230807055840:  was not Matched
+20230807055844: Check =0
+
+20230807055844:  was not Matched
+20230807055848: Check =0
+
+20230807055848:  was not Matched
+20230807055853: Check =0
+
+20230807055853:  was not Matched
+20230807055859: Check =0
+
+20230807055859:  was not Matched
+20230807055908: Check =0
+
+20230807055908:  was not Matched
+20230807055915: Check =0
+
+20230807055915:  was not Matched
+20230807055922: Check =0
+
+20230807055922:  was not Matched
+20230807055928: Check =0
+
+20230807055928:  was not Matched
+20230807055934: Check =0
+
+20230807055934:  was not Matched
+20230807055940: Check =0
+
+20230807055940:  was not Matched
+20230807055947: Check =0
+
+20230807055947:  was not Matched
+20230807055954: Check =0
+
+20230807055954:  was not Matched
+20230807060000: Check =0
+
+20230807060000:  was not Matched
+20230807060032: Tabard_010d024005030100000000620dds
+20230807060053: Check =0
+
+20230807060053:  was not Matched
+20230807060100: Check =0
+
+20230807060100:  was not Matched
+20230807060108: Check =0
+
+20230807060108:  was not Matched
+20230807060114: Check =0
+
+20230807060114:  was not Matched
+20230807060120: Check =0
+
+20230807060120:  was not Matched
+20230807060126: Check =0
+
+20230807060126:  was not Matched
+20230807060131: Check =0
+
+20230807060131:  was not Matched
+20230807060137: Check =0
+
+20230807060137:  was not Matched
+20230807060143: Check =0
+
+20230807060143:  was not Matched
+20230807060150: Check =1
+
+20230807060150:  was Matched
+20230807060156: Check =0
+
+20230807060156:  was not Matched
+20230807060201: Check =0
+
+20230807060201:  was not Matched
+20230807060207: Check =0
+
+20230807060207:  was not Matched
+20230807060213: Check =0
+
+20230807060213:  was not Matched
+20230807060218: Check =0
+
+20230807060218:  was not Matched
+20230807060223: Check =0
+
+20230807060223:  was not Matched
+20230807060228: Check =0
+
+20230807060228:  was not Matched
+20230807060233: Check =0
+
+20230807060233:  was not Matched
+20230807060238: Check =0
+
+20230807060238:  was not Matched
+20230807060243: Check =0
+
+20230807060243:  was not Matched
+20230807060248: Check =0
+
+20230807060248:  was not Matched
+20230807060255: Check =0
+
+20230807060255:  was not Matched
+20230807060300: Check =0
+
+20230807060300:  was not Matched
+20230807060306: Check =0
+
+20230807060306:  was not Matched
+20230807060313: Check =0
+
+20230807060313:  was not Matched
+20230807060320: Check =1
+
+20230807060320:  was Matched
+20230807060326: Check =1
+
+20230807060326:  was Matched
+20230807060332: Check =0
+
+20230807060332:  was not Matched
+20230807060339: Check =1
+
+20230807060339:  was Matched
+20230807060346: Check =0
+
+20230807060346:  was not Matched
+20230807060353: Check =0
+
+20230807060353:  was not Matched
+20230807060400: Check =0
+
+20230807060400:  was not Matched
+20230807060406: Check =0
+
+20230807060406:  was not Matched
+20230807060412: Check =0
+
+20230807060412:  was not Matched
+20230807060417: Check =0
+
+20230807060417:  was not Matched
+20230807060422: Check =0
+
+20230807060422:  was not Matched
+20230807060427: Check =1
+
+20230807060427:  was Matched
+20230807060432: Check =0
+
+20230807060432:  was not Matched
+20230807060437: Check =0
+
+20230807060437:  was not Matched
+20230807060441: Check =0
+
+20230807060441:  was not Matched
+20230807060446: Check =0
+
+20230807060446:  was not Matched
+20230807060450: Check =0
+
+20230807060450:  was not Matched
+20230807060455: Check =0
+
+20230807060455:  was not Matched
+20230807060500: Check =0
+
+20230807060500:  was not Matched
+20230807060505: Check =0
+
+20230807060505:  was not Matched
+20230807060510: Check =0
+
+20230807060510:  was not Matched
+20230807060514: Check =0
+
+20230807060514:  was not Matched
+20230807060519: Check =0
+
+20230807060519:  was not Matched
+20230807060524: Check =0
+
+20230807060524:  was not Matched
+20230807060529: Check =0
+
+20230807060529:  was not Matched
+20230807060534: Check =0
+
+20230807060534:  was not Matched
+20230807060538: Check =0
+
+20230807060538:  was not Matched
+20230807060543: Check =0
+
+20230807060543:  was not Matched
+20230807060552: Tabard_010d024005030100000000620dds
+20230807060608: Check =0
+
+20230807060608:  was not Matched
+20230807060616: Check =0
+
+20230807060616:  was not Matched
+20230807060621: Check =0
+
+20230807060621:  was not Matched
+20230807060627: Check =0
+
+20230807060627:  was not Matched
+20230807060632: Check =0
+
+20230807060632:  was not Matched
+20230807060639: Check =0
+
+20230807060639:  was not Matched
+20230807060645: Check =0
+
+20230807060645:  was not Matched
+20230807060655: Check =0
+
+20230807060655:  was not Matched
+20230807060700: Check =0
+
+20230807060700:  was not Matched
+20230807060706: Check =1
+
+20230807060706:  was Matched
+20230807060712: Check =0
+
+20230807060712:  was not Matched
+20230807060718: Check =0
+
+20230807060718:  was not Matched
+20230807060725: Check =0
+
+20230807060725:  was not Matched
+20230807060735: Check =0
+
+20230807060735:  was not Matched
+20230807060742: Check =0
+
+20230807060742:  was not Matched
+20230807060749: Check =0
+
+20230807060749:  was not Matched
+20230807060756: Check =0
+
+20230807060756:  was not Matched
+20230807060802: Check =0
+
+20230807060802:  was not Matched
+20230807060807: Check =0
+
+20230807060807:  was not Matched
+20230807060812: Check =0
+
+20230807060812:  was not Matched
+20230807060817: Check =0
+
+20230807060817:  was not Matched
+20230807060823: Check =0
+
+20230807060823:  was not Matched
+20230807060828: Check =0
+
+20230807060828:  was not Matched
+20230807060833: Check =0
+
+20230807060833:  was not Matched
+20230807060838: Check =0
+
+20230807060838:  was not Matched
+20230807060843: Check =0
+
+20230807060843:  was not Matched
+20230807060848: Check =0
+
+20230807060848:  was not Matched
+20230807060854: Check =1
+
+20230807060854:  was Matched
+20230807060854: Check =
+20230807060900: Check =1
+
+20230807060900:  was Matched
+20230807060907: Check =0
+
+20230807060907:  was not Matched
+20230807060914: Check =0
+
+20230807060914:  was not Matched
+20230807060921: Check =1
+
+20230807060921:  was Matched
+20230807060928: Check =0
+
+20230807060928:  was not Matched
+20230807060937: Check =0
+
+20230807060937:  was not Matched
+20230807060944: Check =0
+
+20230807060944:  was not Matched
+20230807060950: Check =0
+
+20230807060950:  was not Matched
+20230807060956: Check =0
+
+20230807060956:  was not Matched
+20230807061003: Check =0
+
+20230807061003:  was not Matched
+20230807061009: Check =0
+
+20230807061009:  was not Matched
+20230807061014: Check =0
+
+20230807061014:  was not Matched
+20230807061019: Check =1
+
+20230807061019:  was Matched
+20230807061024: Check =0
+
+20230807061024:  was not Matched
+20230807061029: Check =0
+
+20230807061029:  was not Matched
+20230807061034: Check =0
+
+20230807061034:  was not Matched
+20230807061039: Check =0
+
+20230807061039:  was not Matched
+20230807061044: Check =0
+
+20230807061044:  was not Matched
+20230807061049: Check =0
+
+20230807061049:  was not Matched
+20230807061054: Check =0
+
+20230807061054:  was not Matched
+20230807061059: Check =0
+
+20230807061059:  was not Matched
+20230807061105: Check =0
+
+20230807061105:  was not Matched
+20230807061110: Check =0
+
+20230807061110:  was not Matched
+20230807061116: Check =1
+
+20230807061116:  was Matched
+20230807061122: Check =0
+
+20230807061122:  was not Matched
+20230807061127: Check =0
+
+20230807061127:  was not Matched
+20230807061132: Check =0
+
+20230807061132:  was not Matched
+20230807061137: Check =0
+
+20230807061137:  was not Matched
+20230807061142: Check =0
+
+20230807061142:  was not Matched
+20230807061147: Check =0
+
+20230807061147:  was not Matched
+20230807061153: Check =0
+
+20230807061153:  was not Matched
+20230807061159: Check =0
+
+20230807061159:  was not Matched
+20230807061204: Check =0
+
+20230807061204:  was not Matched
+20230807061211: Check =0
+
+20230807061211:  was not Matched
+20230807061217: Check =0
+
+20230807061217:  was not Matched
+20230807061223: Check =1
+
+20230807061223:  was Matched
+20230807061229: Check =0
+
+20230807061229:  was not Matched
+20230807061234: Check =0
+
+20230807061234:  was not Matched
+20230807061239: Check =0
+
+20230807061239:  was not Matched
+20230807061244: Check =0
+
+20230807061244:  was not Matched
+20230807061249: Check =0
+
+20230807061249:  was not Matched
+20230807061254: Check =0
+
+20230807061254:  was not Matched
+20230807061259: Check =0
+
+20230807061259:  was not Matched
+20230807061305: Check =0
+
+20230807061305:  was not Matched
+20230807061310: Check =0
+
+20230807061310:  was not Matched
+20230807061316: Check =0
+
+20230807061316:  was not Matched
+20230807061322: Check =0
+
+20230807061322:  was not Matched
+20230807061328: Check =0
+
+20230807061328:  was not Matched
+20230807061335: Check =0
+
+20230807061335:  was not Matched
+20230807061341: Check =0
+
+20230807061341:  was not Matched
+20230807061345: Check =0
+
+20230807061345:  was not Matched
+20230807061350: Check =0
+
+20230807061350:  was not Matched
+20230807061354: Check =0
+
+20230807061354:  was not Matched
+20230807061359: Check =1
+
+20230807061359:  was Matched
+20230807061403: Check =1
+
+20230807061403:  was Matched
+20230807061408: Check =0
+
+20230807061408:  was not Matched
+20230807061413: Check =0
+
+20230807061413:  was not Matched
+20230807061419: Check =1
+
+20230807061419:  was Matched
+20230807061425: Check =0
+
+20230807061425:  was not Matched
+20230807061430: Check =0
+
+20230807061430:  was not Matched
+20230807061436: Check =0
+
+20230807061436:  was not Matched
+20230807061442: Check =0
+
+20230807061442:  was not Matched
+20230807061447: Check =0
+
+20230807061447:  was not Matched
+20230807061453: Check =0
+
+20230807061453:  was not Matched
+20230807061500: Check =0
+
+20230807061500:  was not Matched
+20230807061505: Check =0
+
+20230807061505:  was not Matched
+20230807061511: Check =1
+
+20230807061511:  was Matched
+20230807061517: Check =0
+
+20230807061517:  was not Matched
+20230807061523: Check =0
+
+20230807061523:  was not Matched
+20230807061529: Check =0
+
+20230807061529:  was not Matched
+20230807061536: Check =0
+
+20230807061536:  was not Matched
+20230807061543: Check =0
+
+20230807061543:  was not Matched
+20230807061550: Check =0
+
+20230807061550:  was not Matched
+20230807061556: Check =0
+
+20230807061556:  was not Matched
+20230807061603: Check =0
+
+20230807061603:  was not Matched
+20230807061610: Check =0
+
+20230807061610:  was not Matched
+20230807061618: Check =0
+
+20230807061618:  was not Matched
+20230807061625: Check =1
+
+20230807061625:  was Matched
+20230807061634: Check =0
+
+20230807061634:  was not Matched
+20230807061647: Check =0
+
+20230807061647:  was not Matched
+20230807061658: Check =0
+
+20230807061658:  was not Matched
+20230807061706: Check =0
+
+20230807061706:  was not Matched
+20230807061713: Check =0
+
+20230807061713:  was not Matched
+20230807061720: Check =0
+
+20230807061720:  was not Matched
+20230807061728: Check =0
+
+20230807061728:  was not Matched
+20230807061737: Check =0
+
+20230807061737:  was not Matched
+20230807061749: Check =0
+
+20230807061749:  was not Matched
+20230807061759: Check =0
+
+20230807061759:  was not Matched
+20230807061806: Check =0
+
+20230807061806:  was not Matched
+20230807061812: Check =1
+
+20230807061812:  was Matched
+20230807061819: Check =0
+
+20230807061819:  was not Matched
+20230807061825: Check =0
+
+20230807061825:  was not Matched
+20230807061833: Check =0
+
+20230807061833:  was not Matched
+20230807061839: Check =0
+
+20230807061839:  was not Matched
+20230807061844: Check =0
+
+20230807061844:  was not Matched
+20230807061849: Check =0
+
+20230807061849:  was not Matched
+20230807061854: Check =0
+
+20230807061854:  was not Matched
+20230807061859: Check =0
+
+20230807061859:  was not Matched
+20230807061905: Check =0
+
+20230807061905:  was not Matched
+20230807061910: Check =0
+
+20230807061910:  was not Matched
+20230807061916: Check =0
+
+20230807061916:  was not Matched
+20230807061921: Check =0
+
+20230807061921:  was not Matched
+20230807061927: Check =0
+
+20230807061927:  was not Matched
+20230807061935: Check =0
+
+20230807061935:  was not Matched
+20230807061942: Check =0
+
+20230807061942:  was not Matched
+20230807061950: Check =0
+
+20230807061950:  was not Matched
+20230807061957: Check =0
+
+20230807061957:  was not Matched
+20230807062005: Check =1
+
+20230807062005:  was Matched
+20230807062005:  was not Matched
+20230807062015: Check =1
+
+20230807062015:  was Matched
+20230807062030: Check =0
+
+20230807062030:  was not Matched
+20230807062038: Check =0
+
+20230807062038:  was not Matched
+20230807062044: Check =1
+
+20230807062044:  was Matched
+20230807062051: Check =0
+
+20230807062051:  was not Matched
+20230807062059: Check =0
+
+20230807062059:  was not Matched
+20230807062106: Check =0
+
+20230807062106:  was not Matched
+20230807062113: Check =0
+
+20230807062113:  was not Matched
+20230807062119: Check =0
+
+20230807062119:  was not Matched
+20230807062127: Check =0
+
+20230807062127:  was not Matched
+20230807062135: Check =0
+
+20230807062135:  was not Matched
+20230807062142: Check =0
+
+20230807062142:  was not Matched
+20230807062150: Check =1
+
+20230807062150:  was Matched
+20230807062200: Check =0
+
+20230807062200:  was not Matched
+20230807062209: Check =0
+
+20230807062209:  was not Matched
+20230807062218: Check =0
+
+20230807062218:  was not Matched
+20230807062225: Check =0
+
+20230807062225:  was not Matched
+20230807062232: Check =0
+
+20230807062232:  was not Matched
+20230807062239: Check =0
+
+20230807062239:  was not Matched
+20230807062245: Check =0
+
+20230807062245:  was not Matched
+20230807062254: Check =0
+
+20230807062254:  was not Matched
+20230807062301: Check =0
+
+20230807062301:  was not Matched
+20230807062308: Check =0
+
+20230807062308:  was not Matched
+20230807062318: Check =1
+
+20230807062318:  was Matched
+20230807062329: Check =0
+
+20230807062329:  was not Matched
+20230807062338: Check =0
+
+20230807062338:  was not Matched
+20230807062348: Check =0
+
+20230807062348:  was not Matched
+20230807062354: Check =0
+
+20230807062354:  was not Matched
+20230807062359: Check =0
+
+20230807062359:  was not Matched
+20230807062403: Check =0
+
+20230807062403:  was not Matched
+20230807062408: Check =0
+
+20230807062408:  was not Matched
+20230807062417: Check =0
+
+20230807062417:  was not Matched
+20230807062427: Check =0
+
+20230807062427:  was not Matched
+20230807062436: Check =0
+
+20230807062436:  was not Matched
+20230807062444: Check =0
+
+20230807062444:  was not Matched
+20230807062451: Check =1
+
+20230807062451:  was Matched
+20230807062458: Check =0
+
+20230807062458:  was not Matched
+20230807062506: Check =0
+
+20230807062506:  was not Matched
+20230807062514: Check =0
+
+20230807062514:  was not Matched
+20230807062522: Check =0
+
+20230807062522:  was not Matched
+20230807062533: Check =0
+
+20230807062533:  was not Matched
+20230807062543: Check =0
+
+20230807062543:  was not Matched
+20230807062549: Check =0
+
+20230807062549:  was not Matched
+20230807062557: Check =0
+
+20230807062557:  was not Matched
+20230807062607: Check =0
+
+20230807062607:  was not Matched
+20230807062618: Check =0
+
+20230807062618:  was not Matched
+20230807062630: Check =0
+
+20230807062630:  was not Matched
+20230807062638: Check =0
+
+20230807062638:  was not Matched
+20230807062646: Check =0
+
+20230807062646:  was not Matched
+20230807062652: Check =0
+
+20230807062652:  was not Matched
+20230807062659: Check =0
+
+20230807062659:  was not Matched
+20230807062706: Check =0
+
+20230807062706:  was not Matched
+20230807062713: Check =0
+
+20230807062713:  was not Matched
+20230807062722: Check =1
+
+20230807062722:  was Matched
+20230807062735: Check =1
+
+20230807062735:  was Matched
+20230807062742: Check =0
+
+20230807062742:  was not Matched
+20230807062749: Check =0
+
+20230807062749:  was not Matched
+20230807062756: Check =1
+
+20230807062756:  was Matched
+20230807062803: Check =0
+
+20230807062803:  was not Matched
+20230807062810: Check =0
+
+20230807062810:  was not Matched
+20230807062815: Check =0
+
+20230807062815:  was not Matched
+20230807062821: Check =0
+
+20230807062821:  was not Matched
+20230807062826: Check =0
+
+20230807062826:  was not Matched
+20230807062833: Check =0
+
+20230807062833:  was not Matched
+20230807062844: Check =0
+
+20230807062844:  was not Matched
+20230807062851: Check =0
+
+20230807062851:  was not Matched
+20230807062857: Check =1
+
+20230807062857:  was Matched
+20230807062904: Check =0
+
+20230807062904:  was not Matched
+20230807062913: Check =0
+
+20230807062913:  was not Matched
+20230807062922: Check =0
+
+20230807062922:  was not Matched
+20230807062928: Check =0
+
+20230807062928:  was not Matched
+20230807062933: Check =0
+
+20230807062933:  was not Matched
+20230807062937: Check =0
+
+20230807062937:  was not Matched
+20230807062940: Check =0
+
+20230807062940:  was not Matched
+20230807062944: Check =0
+
+20230807062944:  was not Matched
+20230807062949: Check =0
+
+20230807062949:  was not Matched
+20230807062953: Check =0
+
+20230807062953:  was not Matched
+20230807062956: Check =1
+
+20230807062956:  was Matched
+20230807062959: Check =0
+
+20230807062959:  was not Matched
+20230807063002: Check =0
+
+20230807063002:  was not Matched
+20230807063005: Check =0
+
+20230807063005:  was not Matched
+20230807063007: Check =0
+
+20230807063007:  was not Matched
+20230807063010: Check =0
+
+20230807063010:  was not Matched
+20230807063013: Check =0
+
+20230807063013:  was not Matched
+20230807063016: Check =0
+
+20230807063016:  was not Matched
+20230807063020: Check =0
+
+20230807063020:  was not Matched
+20230807063024: Check =0
+
+20230807063024:  was not Matched
+20230807063031: Check =0
+
+20230807063031:  was not Matched
+20230807063119: Check =0
+
+20230807063119:  was not Matched
+20230807063138: Check =1
+
+20230807063138:  was Matched
+20230807063146: Check =0
+
+20230807063146:  was not Matched
+20230807063155: Check =0
+
+20230807063155:  was not Matched
+20230807063202: Check =0
+
+20230807063202:  was not Matched
+20230807063210: Check =0
+
+20230807063210:  was not Matched
+20230807063218: Check =0
+
+20230807063218:  was not Matched
+20230807063225: Check =0
+
+20230807063225:  was not Matched
+20230807063232: Check =0
+
+20230807063232:  was not Matched
+20230807063239: Check =0
+
+20230807063239:  was not Matched
+20230807063247: Check =0
+
+20230807063247:  was not Matched
+20230807063256: Check =0
+
+20230807063256:  was not Matched
+20230807063305: Check =0
+
+20230807063305:  was not Matched
+20230807063316: Check =0
+
+20230807063316:  was not Matched
+20230807063324: Check =0
+
+20230807063324:  was not Matched
+20230807063334: Check =0
+
+20230807063334:  was not Matched
+20230807063346: Check =0
+
+20230807063346:  was not Matched
+20230807063358: Check =0
+
+20230807063358:  was not Matched
+20230807063417: Check =0
+
+20230807063417:  was not Matched
+20230807063434: Check =1
+
+20230807063434:  was Matched
+20230807063444: Check =1
+
+20230807063444:  was Matched
+20230807063454: Check =0
+
+20230807063454:  was not Matched
+20230807063516: Check =Resolve-Path : Cannot find path 'C:\Users\Living Room\Desktop\LiF 
+Parser\LiF\whitelist\Standard_010d024005030100000000620.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Living...00000000620.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230807063516:  was Matched
+20230807063519: Standard_010d104005030100000000000dds
+20230807063540: Check =0
+
+20230807063540:  was not Matched
+20230807063558: Check =0
+
+20230807063558:  was not Matched
+20230807063610: Check =0
+
+20230807063610:  was not Matched
+20230807063621: Check =0
+
+20230807063621:  was not Matched
+20230807063631: Check =0
+
+20230807063631:  was not Matched
+20230807063641: Check =0
+
+20230807063642:  was not Matched
+20230807063651: Check =0
+
+20230807063651:  was not Matched
+20230807063700: Check =1
+
+20230807063700:  was Matched
+20230807063709: Check =0
+
+20230807063709:  was not Matched
+20230807063717: Check =0
+
+20230807063717:  was not Matched
+20230807063726: Check =0
+
+20230807063726:  was not Matched
+20230807063734: Check =0
+
+20230807063734:  was not Matched
+20230807063742: Check =0
+
+20230807063742:  was not Matched
+20230807063750: Check =0
+
+20230807063750:  was not Matched
+20230807063756: Check =0
+
+20230807063756:  was not Matched
+20230807063803: Check =0
+
+20230807063803:  was not Matched
+20230807063810: Check =0
+
+20230807063810:  was not Matched
+20230807063819: Check =1
+
+20230807063819:  was Matched
+20230807063826: Check =0
+
+20230807063826:  was not Matched
+20230807063833: Check =0
+
+20230807063833:  was not Matched
+20230807063838: Check =0
+
+20230807063838:  was not Matched
+20230807063843: Check =0
+
+20230807063843:  was not Matched
+20230807063848: Check =0
+
+20230807063848:  was not Matched
+20230807063853: Check =0
+
+20230807063853:  was not Matched
+20230807063858: Check =0
+
+20230807063858:  was not Matched
+20230807063903: Check =0
+
+20230807063903:  was not Matched
+20230807063914: Check =0
+
+20230807063914:  was not Matched
+20230807063922: Check =0
+
+20230807063922:  was not Matched
+20230807063929: Check =1
+
+20230807063929:  was Matched
+20230807063940: Check =0
+
+20230807063940:  was not Matched
+20230807064000: Check =0
+
+20230807064000:  was not Matched
+20230807064009: Check =0
+
+20230807064009:  was not Matched
+20230807064017: Check =0
+
+20230807064017:  was not Matched
+20230807064023: Check =0
+
+20230807064023:  was not Matched
+20230807064032: Check =0
+
+20230807064032:  was not Matched
+20230807064040: Check =0
+
+20230807064040:  was not Matched
+20230807064048: Check =0
+
+20230807064048:  was not Matched
+20230807064057: Check =0
+
+20230807064057:  was not Matched
+20230807064105: Check =0
+
+20230807064105:  was not Matched
+20230807064117: Check =0
+
+20230807064117:  was not Matched
+20230807064124: Check =0
+
+20230807064124:  was not Matched
+20230807064131: Check =0
+
+20230807064131:  was not Matched
+20230807064137: Check =0
+
+20230807064137:  was not Matched
+20230807064144: Check =0
+
+20230807064144:  was not Matched
+20230807064151: Check =0
+
+20230807064151:  was not Matched
+20230807064157: Check =1
+
+20230807064157:  was Matched
+20230807064202: Check =1
+
+20230807064202:  was Matched
+20230807064207: Check =0
+
+20230807064207:  was not Matched
+20230807064212: Check =1
+
+20230807064212:  was Matched
+20230807064219: Check =0
+
+20230807064219:  was not Matched
+20230807064226: Check =0
+
+20230807064226:  was not Matched
+20230807064234: Check =0
+
+20230807064235:  was not Matched
+20230807064248: Check =0
+
+20230807064248:  was not Matched
+20230807064301: Check =0
+
+20230807064301:  was not Matched
+20230807064314: Check =0
+
+20230807064314:  was not Matched
+20230807064328: Check =0
+
+20230807064328:  was not Matched
+20230807064346: Check =1
+
+20230807064346:  was Matched
+20230807064357: Check =0
+
+20230807064357:  was not Matched
+20230807064408: Check =0
+
+20230807064408:  was not Matched
+20230807064417: Check =0
+
+20230807064417:  was not Matched
+20230807064425: Check =0
+
+20230807064425:  was not Matched
+20230807064433: Check =0
+
+20230807064433:  was not Matched
+20230807064441: Check =0
+
+20230807064441:  was not Matched
+20230807064447: Check =0
+
+20230807064447:  was not Matched
+20230807064456: Check =0
+
+20230807064456:  was not Matched
+20230807064504: Check =0
+
+20230807064504:  was not Matched
+20230807064515: Check =1
+
+20230807064515:  was Matched
+20230807064524: Check =0
+
+20230807064524:  was not Matched
+20230807064527: Check =0
+
+20230807064527:  was not Matched
+20230807064530: Check =0
+
+20230807064530:  was not Matched
+20230807064533: Check =Resolve-Path : Cannot find path 'C:\Games\Life is Feudal 
+MMO\default\game\game\eu\art\Textures\Heraldry\Cache\Tabard_010d104005030100000000000.dds' because it does not exist.
+At 
+C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psm1:110 
+char:36
++                 $pathsToProcess += Resolve-Path $Path | Foreach-Objec ...
++                                    ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Games\Life i...00000000000.dds:String) [Resolve-Path], ItemNotFoundE 
+   xception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.ResolvePathCommand
+ 
+0
+
+20230807064533:  was Matched
+20230807064535: Tabard_010d104005030100000000000dds
